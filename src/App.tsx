@@ -84,7 +84,7 @@ function App() {
                   <div className="space-y-2 text-sm text-gray-600">
                     <div className="flex items-center">
                       <CheckCircle className="h-4 w-4 text-green-500 mr-2" />
-                      <span>300+ páginas de conteúdo</span>
+                      <span>Guia rápido e objetivo para revisar antes da prova</span>
                     </div>
                     <div className="flex items-center">
                       <CheckCircle className="h-4 w-4 text-green-500 mr-2" />
