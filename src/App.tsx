@@ -22,13 +22,13 @@ function App() {
           </div>
           
           <h1 className="text-4xl md:text-6xl font-black text-gray-900 mb-6 leading-tight">
-            Acelere sua preparação<br />
-            <span className="text-blue-600">para o ENEM!</span>
+          Guia rápido e objetivo <br />
+            <span className="text-blue-600">para revisar antes da prova ENEM 2025!</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-700 mb-8 leading-relaxed">
-            Revise os principais conteúdos em tempo recorde e<br />
-            <strong>aumente suas chances de aprovação.</strong>
+            Agora é sua vez de conquistar a aprovação <br />
+            <strong>com muito menos esforço.</strong>
           </p>
 
           <div className="bg-white rounded-2xl shadow-2xl p-8 mb-8 border-2 border-blue-200">
@@ -36,10 +36,10 @@ function App() {
               <div className="mb-6 md:mb-0">
                 <span className="text-gray-500 text-lg line-through block">De R$ 79,90</span>
                 <span className="text-5xl font-black text-green-600">R$ 34,90</span>
-                <span className="text-gray-600 text-sm block">Oferta limitada</span>
+                <span className="text-gray-600 text-sm block">🚀 Oferta exclusiva de lançamento</span>
               </div>
               <button className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white px-8 py-4 rounded-full text-xl font-bold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 w-full md:w-auto">
-                👉 QUERO MINHA APOSTILA AGORA!
+                👉 GARANTIR MINHA APOSTILA AGORA !
               </button>
             </div>
           </div>
@@ -56,18 +56,17 @@ function App() {
               </h2>
               
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                Chega de perder tempo com conteúdo extenso e confuso! Nossa apostila digital traz 
-                <strong> resumos rápidos, claros e objetivos</strong> de todos os assuntos que mais caem no ENEM.
+               Pare de desperdiçar horas em conteúdos que não caem! Revise de forma   
+                <strong> rápida, prática e certeira</strong> com o resumo que já ajudou milhares de alunos a subir suas notas no ENEM.
               </p>
               
               <p className="text-lg text-gray-700 mb-8 leading-relaxed">
-                Linguagem jovem, prática e direta ao ponto. Perfeita para quem precisa revisar tudo 
-                de forma inteligente, mesmo com pouco tempo até a prova!
+               Feita para quem não tem tempo a perder: linguagem simples, objetiva e 100% focada no que cai na prova.
               </p>
 
               <div className="flex items-center gap-4 mb-6">
                 <Zap className="h-6 w-6 text-yellow-500" />
-                <span className="font-semibold text-gray-800">Download instantâneo após o pagamento</span>
+                <span className="font-semibold text-gray-800">Apostila liberada em segundos: pagou, baixou, estudou.</span>
               </div>
             </div>
 
@@ -84,15 +83,15 @@ function App() {
                   <div className="space-y-2 text-sm text-gray-600">
                     <div className="flex items-center">
                       <CheckCircle className="h-4 w-4 text-green-500 mr-2" />
-                      <span>Guia rápido e objetivo para revisar antes da prova</span>
+                      <span>📘 Resumo certeiro: só o que realmente cai no ENEM</span>
                     </div>
                     <div className="flex items-center">
                       <CheckCircle className="h-4 w-4 text-green-500 mr-2" />
-                      <span>Todas as matérias do ENEM</span>
+                      <span>📚 Conteúdo completo: todas as matérias em linguagem clara</span>
                     </div>
                     <div className="flex items-center">
                       <CheckCircle className="h-4 w-4 text-green-500 mr-2" />
-                      <span>Dicas de redação</span>
+                      <span>✍️ Redação sem mistério: técnicas simples para você ganhar pontos extras</span>
                     </div>
                   </div>
                 </div>
@@ -106,7 +105,8 @@ function App() {
       <section className="py-16 bg-gray-50">
         <div className="container mx-auto max-w-6xl px-4">
           <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
-            Por que escolher nossa <span className="text-blue-600">Apostila Digital?</span>
+           O resumo que já ajudou centenas de alunos a subir suas notas e conquistar aprovação no ENEM. 
+           <span className="text-blue-600">Descubra por que esse material é diferente de tudo que você já viu:</span>
           </h2>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -152,7 +152,7 @@ function App() {
                 ))}
               </div>
               <p className="text-gray-700 mb-4 italic">
-                "Consegui revisar tudo em 2 semanas! A linguagem é super clara e os resumos são perfeitos."
+                "Em apenas 2 semanas consegui revisar todo o conteúdo. A linguagem é super clara e os resumos fizeram toda a diferença."
               </p>
               <div className="font-semibold text-gray-900">Maria Silva, 17 anos</div>
               <div className="text-sm text-gray-600">Aprovada em Medicina</div>
@@ -165,7 +165,7 @@ function App() {
                 ))}
               </div>
               <p className="text-gray-700 mb-4 italic">
-                "As dicas de redação foram fundamentais! Tirei 920 na redação seguindo o método da apostila."
+                "As dicas de redação foram o pulo do gato! Segui o método e consegui 920 na redação."
               </p>
               <div className="font-semibold text-gray-900">João Pedro, 18 anos</div>
               <div className="text-sm text-gray-600">Aprovado em Engenharia</div>
@@ -178,7 +178,7 @@ function App() {
                 ))}
               </div>
               <p className="text-gray-700 mb-4 italic">
-                "Melhor investimento que fiz! Por R$ 34,90 consegui todo o conteúdo organizado e prático."
+                "Melhor investimento que já fiz! Por apenas R$ 34,90 tive todo o conteúdo organizado e pronto para estudar."
               </p>
               <div className="font-semibold text-gray-900">Ana Beatriz, 17 anos</div>
               <div className="text-sm text-gray-600">Aprovada em Direito</div>
@@ -194,17 +194,19 @@ function App() {
             <Shield className="h-16 w-16 text-green-600 mx-auto mb-6" />
             
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Estude agora, mesmo com pouco tempo até a prova!
+              Não importa se você tem pouco tempo: com nossa apostila, sua revisão é rápida, certeira e eficiente.
+               Sua aprovação no ENEM 2025 pode começar agora mesmo!
             </h2>
             
             <p className="text-xl text-gray-700 mb-6">
-              Material acessível, simples e direto ao ponto.<br />
+             ✅ Material direto ao ponto<br />
+             ✅ Acesso imediato no celular, tablet ou computador<br /><br />
               <strong>Sua aprovação está a um clique de distância!</strong>
             </p>
 
             <div className="bg-yellow-100 border-l-4 border-yellow-500 p-4 mb-6 text-left">
               <p className="text-gray-800">
-                <strong>✅ Garantia de 7 dias:</strong> Se não ficar satisfeito, devolvemos 100% do seu dinheiro!
+                <strong>✅ Garantia de 7 dias:</strong> (se não gostar, devolvemos 100%)
               </p>
             </div>
 
@@ -223,12 +225,12 @@ function App() {
             </div>
 
             <button className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white px-12 py-6 rounded-full text-2xl font-bold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 w-full md:w-auto mb-4">
-              👉 QUERO MINHA APOSTILA POR APENAS R$ 34,90
+              👉 QUERO GARANTIR MINHA APOSTILA COM DESCONTO!
             </button>
 
             <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
               <Shield className="h-4 w-4" />
-              <span>Compra 100% segura e protegida</span>
+              <span>Download imediato • Pagamento único • Compra 100% segura</span>
             </div>
           </div>
         </div>
