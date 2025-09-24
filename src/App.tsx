@@ -38,9 +38,9 @@ function App() {
                 <span className="text-5xl font-black text-green-600">R$ 34,90</span>
                 <span className="text-gray-600 text-sm block">🚀 Oferta exclusiva de lançamento</span>
               </div>
-              <button className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white px-8 py-4 rounded-full text-xl font-bold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 w-full md:w-auto">
+              <a href='https://pay.kiwify.com.br/ARNY91q' target='_blank'><button className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white px-8 py-4 rounded-full text-xl font-bold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 w-full md:w-auto">
                 👉 GARANTIR MINHA APOSTILA AGORA !
-              </button>
+              </button></a>
             </div>
           </div>
         </div>
@@ -224,9 +224,9 @@ function App() {
               </div>
             </div>
 
-            <button className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white px-12 py-6 rounded-full text-2xl font-bold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 w-full md:w-auto mb-4">
+            <a href='https://pay.kiwify.com.br/ARNY91q' target='_blank'><button className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white px-12 py-6 rounded-full text-2xl font-bold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 w-full md:w-auto mb-4">
               👉 QUERO GARANTIR MINHA APOSTILA COM DESCONTO!
-            </button>
+            </button></a>
 
             <div className="flex items-center justify-center gap-2 text-sm text-gray-600">
               <Shield className="h-4 w-4" />
